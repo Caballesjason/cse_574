@@ -1,0 +1,9 @@
+jasons-cse-574-notes
+syllabus
+piazza
+zoom-link
+class-weighting
+exam-schedule
+introduction
+data-science-basics
+linear-models
