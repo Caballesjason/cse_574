@@ -11,4 +11,25 @@ Hello to anyone reading this.  This is Jason Caballes' notes for CSE 574 :)
 
 ## Syllabus
 
+### Piazza
+[Click here for the piazza!](https://piazza.com/class/lrznse2u8m43wt)
 
+### Zoom Link
+[Click here for the zoom link!](https://buffalo.zoom.us/my/sreyasee?pwd=Mlg4bmEyMGNJQVhhcUJqV3dkSFdCdz09)
+
+### Class Weighting
+
+| Segment | Weight |
+|:-------:|:------:|
+| Programming Assignment 1 | 20% |
+| Programming Assignment 2 | 20% |
+| Programming Assignment 3 | 20% |
+| Midterm | 15% |
+| Final | 25% |
+
+### Exam Schedule
+| Exam | Time |
+|:----:|:----:|
+| Midterm One | Wednesday, March 6th, 2024, from 18:30-22:00 |
+| Midterm Two | Tuesday, April 9th, 2024, from 18:30-22:00 |
+| Final | Monday, May 9th, 2024, from 19:15-22:15 in Cooke 121 |
