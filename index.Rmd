@@ -6,7 +6,7 @@ documentclass: "book"
 output:
   bookdown::bs4_book: "default"
 ---
-# Jason's CSE 574 Notes
+# Jason's CSE 574 Notes {-}
 Hello to anyone reading this.  This is Jason Caballes' notes for CSE 574 :)
 
 ## Syllabus
